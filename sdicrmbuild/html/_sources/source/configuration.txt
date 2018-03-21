@@ -1,0 +1,149 @@
+Configuration
+=============
+
+
+Menu contents
+-------------
+
+Submenus: 
+
+* Ajustes.
+	
+	* CRM:
+
+	La configuración principal en esta vista es el checkbox que nos permite seleccionar las "Iniciativas" para que se muestre el menú.
+
+.. image:: /images/configuration_settings_crm.jpg
+    :width: 800px
+    :alt: vista del submenu configuration.crm
+    :align: center
+
+
+* Canales de venta.
+
+	Podemos ordenar los distintos canales de venta existentes (si disponemos de los permisos pertinentes) pulsando sobre la cruz situada al lado del canal que queremos mover y arrastrandola hasta el lugar deseado.
+
+.. image:: /images/configuration_canales_venta.png
+    :width: 800px
+    :alt: vista del submenu configuration.crm
+    :align: center
+
+
+Podemos crear nuevos canales de venta (si disponemos de los permisos pertinentes) pulsando sobre el botón crear y rellenando el siguiente formulario. Pulsar guardar.
+
+.. image:: /images/configuration_canales_venta_crear.png
+    :width: 800px
+    :alt: vista del submenu configuration.crm
+    :align: center
+
+Podemos añadir miembros al canal de venta desde el botón Áñadir que se encuentra abajo a la izquierda.
+
+* Tipos de actividad.
+
+Muestra una tabla con los distintos tipos de actividades. Las columnas nos dan la información de nombre del tipo, un resumen del tipo, cuantos días tiene asignado para llevarse a cavo la actividad y el icono que lo representa.
+
+Podemos ordenar los tipos pulsando y arrastrando la cruz de al lado del nombre del tipo (si disponemos de los permisos pertinentes).
+
+.. image:: /images/configuration_activity_types.png
+    :width: 800px
+    :alt: vista del submenu Tipos de actividad
+    :align: center
+
+Si pulsamos sobre uno de los tipos se nos muestra una vista detalle del mismo. 
+
+.. image:: /images/configuration_activity_types_edit.png
+    :width: 800px
+    :alt: vista del formulario para crear un tipo de actividad nuevo
+    :align: center
+
+Podemos editar o crear un tipo nuevo desde la vista detalle o crear uno nuevo desde el listado de tipos de actividad (si disponemos de los permisos pertinentes) y se nos mostrará el siguiente formulario. Pulsar guardar.
+
+.. image:: /images/configuration_activity_types_new.png
+    :width: 800px
+    :alt: vista del formulario para crear un tipo de actividad nuevo
+    :align: center
+
+
+* Iniciativas y Oportunidades:
+
+  ** Etapas
+
+  Muestra una tabla con las distintas etapas de las oportunidades. Las columnas nos dan la información de nombre de la etapa, la probabilidad de que la oportunidad se cumpla en función de la etapa y equipo a la que está asignada la etapa por defecto.
+
+  Podemos ordenar las etapas pulsando y arrastrando la cruz de al lado del nombre de la etapa (si disponemos de los permisos pertinentes).
+
+  .. image:: /images/configuration_stages.png
+      :width: 800px
+      :alt: vista del submenu Etapas de las oportunidades.
+      :align: center
+
+  Si pulsamos sobre uno de las etapas se nos muestra una vista detalle de la misma. 
+
+  .. image:: /images/configuration_stages_edit.png
+      :width: 800px
+      :alt: vista detalle de una etapa de oportunidad.
+      :align: center
+
+  Podemos editar o crear un tipo nuevo desde la vista detalle o crear uno nuevo desde el listado de tipos de actividad (si disponemos de los permisos pertinentes) y se nos mostrará el siguiente formulario. Pulsar guardar.
+
+  .. image:: /images/configuration_stages_new.png
+      :width: 800px
+      :alt: vista del formulario para crear una etapa de oportunidad nueva.
+      :align: center
+
+  Aquí podemos que la oportunidad tenga introducida la cantidad estimada de ingreso, la fecha de cierre previsto o/y algún adjunto para poder acceder a una etapa marcando los checkbox de "SDI-CRM Requirements". 
+
+  En "Requirements" podemos introducir un texto que se nos mostrará como aviso (tooltip) al situar el puntero sobre el nombre de la etapa.
+
+  .. image:: /images/stages_tooltip_requirements.png
+      :width: 800px
+      :alt: vista del formulario para crear una etapa de oportunidad nueva.
+      :align: center
+
+
+  ** Etiquetas de iniciativas.
+
+  Muestra una lista con las distintas etiquetas para describir o clasificar las oportunidades.
+  
+  .. image:: /images/configuration_tags.png
+      :width: 800px
+      :alt: vista del submenu Etiquetas de las oportunidades.
+      :align: center
+
+  Si pulsamos sobre uno de las etiquetas se nos muestra una vista detalle de la misma. 
+
+  .. image:: /images/configuration_tags_edit.png
+      :width: 800px
+      :alt: vista detalle de una etiqueta de oportunidad.
+      :align: center
+
+  Podemos editar o crear una etiqueta nueva desde la vista detalle o crear una nueva desde el listado de etiquetas de oportunidad (si disponemos de los permisos pertinentes) y se nos mostrará el siguiente formulario. Pulsar guardar.
+
+  .. image:: /images/configuration_tags_new.png
+      :width: 800px
+      :alt: vista del formulario para crear una nueva etiqueta de oportunidad.
+      :align: center
+  
+
+  ** Motivo de pérdida.
+
+  Muestra una lista con los distintos motivos de pérdida de una iniciativa u oportunidad.
+  
+  .. image:: /images/configuration_lost.png
+      :width: 800px
+      :alt: vista del submenu Motivos de pérdida.
+      :align: center
+
+  Si pulsamos sobre uno de los distintos motivos de pérdida se nos muestra una vista detalle de la misma. 
+
+  .. image:: /images/configuration_lost_edit.png
+      :width: 800px
+      :alt: vista detalle de un motivo de pérdida de la iniciativa/oportunidad.
+      :align: center
+
+  Podemos editar o crear un motivo de pérdida nuevo desde la vista detalle o crear una nueva desde el listado de motivos de pérdida de oportunidad (si disponemos de los permisos pertinentes) y se nos mostrará el siguiente formulario. Pulsar guardar.
+
+  .. image:: /images/configuration_lost_new.png
+      :width: 800px
+      :alt: vista del formulario para crear un nuevo motivo de pérdida.
+      :align: center

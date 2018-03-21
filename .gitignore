@@ -1,0 +1,6 @@
+*.doctree
+*.pickle
+*.html
+.buildinfo
+*.js
+*.inv
